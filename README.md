@@ -1,1 +1,2 @@
-# LA-Arrest-Analysis
+The goal of this project was to build a model that will accurately predict the demographics of an individual who will be arrested.
+Specifically we wanted to see how well we could predict the Gender, Age, and Ethnicity.
